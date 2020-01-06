@@ -17,9 +17,6 @@ var wheigth=""
 var wtop=0
 var wleft=0
 
-kappsurl=String(kappsurl).split("?")
-kappsurl=String(kappsurl[0])+'?kappsvr&'+String(kappsurl[1])
-
 var overlay = String(window.location).split("standings")
 if(overlay.length > 1){
     wtitle="Standings"
