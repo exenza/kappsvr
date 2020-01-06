@@ -1,6 +1,9 @@
 # kappsvr
 Automate Kapps broswer overlays to make them VR friendly.
 
+Video guide:
+https://youtu.be/_V8GU9dRrdk
+
 In order to use this you will need:
 
 Google Chrome
