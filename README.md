@@ -13,6 +13,7 @@ Kapps
 https://kapps.kutu.ru/
 
 Download kapps.bat, relattives.html, relatives.lnk, standing.html, standings.lnk
+NOTE: the .lnk files will be renamed to .download, be sure you change the extension of the file to lnk
 
 Ensure the patch to Chrome.exe in the .bat file matches the path of Chrome on your system.
 
