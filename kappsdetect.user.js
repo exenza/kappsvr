@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        http://127.0.0.1:8185/racing-overlay/?profileName=standing*
+// @match        http://127.0.0.1:8185/racing-overlay/*
 // @grant        window.close
 // @grant        GM_getValue
 // @grant        GM_setValue
